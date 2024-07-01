@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Godot_Programs\\2DSurvivorsCourse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Godot_Programs\\2DSurvivorsCourse\\scenes\\ability\\sword_ability_controller\\sword_ability_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scenes\\ability\\sword_ability_controller\\sword_ability_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{343875E0-FC35-4ACE-A573-7C94CEF7E679}|2DSurvivorsCourse.csproj|d:\\godot_programs\\2dsurvivorscourse\\scenes\\ability\\sword_ability_controller\\sword_ability_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343875E0-FC35-4ACE-A573-7C94CEF7E679}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\ability\\sword_ability_controller\\sword_ability_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{343875E0-FC35-4ACE-A573-7C94CEF7E679}|2DSurvivorsCourse.csproj|d:\\godot_programs\\2dsurvivorscourse\\scenes\\basic_enemy\\basic_enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "scenes\\ability\\sword_ability_controller\\sword_ability_controller.cs",
               "ToolTip": "D:\\Godot_Programs\\2DSurvivorsCourse\\scenes\\ability\\sword_ability_controller\\sword_ability_controller.cs",
               "RelativeToolTip": "scenes\\ability\\sword_ability_controller\\sword_ability_controller.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAACAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwDsAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T13:02:30.705Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "scenes\\basic_enemy\\basic_enemy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T10:06:30.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-30T10:06:30.731Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "scenes\\game_camera\\game_camera.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAywB0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T08:58:04.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-30T08:58:04.476Z"
             }
           ]
         }

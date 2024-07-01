@@ -8,6 +8,7 @@
 radius = 5.0
 
 [node name="player" type="CharacterBody2D" groups=["player"]]
+collision_layer = 0
 script = ExtResource("1_ca77j")
 
 [node name="AbilityManager" type="Node" parent="."]
@@ -19,6 +20,5 @@ position = Vector2(0, -8)
 texture = ExtResource("1_whwbj")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-light_mask = 0
 position = Vector2(0, -5)
 shape = SubResource("CircleShape2D_e3ags")
