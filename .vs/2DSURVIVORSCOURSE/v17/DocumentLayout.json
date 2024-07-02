@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "scenes\\ability\\sword_ability_controller\\sword_ability_controller.cs",
               "ToolTip": "D:\\Godot_Programs\\2DSurvivorsCourse\\scenes\\ability\\sword_ability_controller\\sword_ability_controller.cs",
               "RelativeToolTip": "scenes\\ability\\sword_ability_controller\\sword_ability_controller.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAiwDsAAABJAAAA",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T13:02:30.705Z",
               "EditorCaption": ""
@@ -49,9 +49,10 @@
               "RelativeDocumentMoniker": "scenes\\basic_enemy\\basic_enemy.cs",
               "ToolTip": "D:\\Godot_Programs\\2DSurvivorsCourse\\scenes\\basic_enemy\\basic_enemy.cs",
               "RelativeToolTip": "scenes\\basic_enemy\\basic_enemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T10:06:30.731Z"
+              "WhenOpened": "2024-06-30T10:06:30.731Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -61,9 +62,10 @@
               "RelativeDocumentMoniker": "scenes\\game_camera\\game_camera.cs",
               "ToolTip": "D:\\Godot_Programs\\2DSurvivorsCourse\\scenes\\game_camera\\game_camera.cs",
               "RelativeToolTip": "scenes\\game_camera\\game_camera.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAywB0AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T08:58:04.476Z"
+              "WhenOpened": "2024-06-30T08:58:04.476Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -7,6 +7,7 @@ public partial class sword_ability_controller : Node
 	[Export]
 	private PackedScene sword_ability;
 	private const float MAX_RANGE = 150.0f;
+    private Random random = new Random();
 	// Called when the node enters the scene tree for the first time.
 	public override void _Ready()
 	{
@@ -80,5 +81,11 @@ public partial class sword_ability_controller : Node
         }
         player.GetParent().AddChild(sword_instance);
 		sword_instance.GlobalPosition = filteredEnemies[0].GlobalPosition;
-	}
+        //给剑一个随机位移
+        //random.NextDouble() 是 Random 类的一个方法，它会返回一个在 0.0 和 1.0 之间的随机浮点数。这个值是一个均匀分布的随机数。
+        //Rotated 是 Vector2 类的一个方法，用于将向量旋转一个给定的角度（以弧度为单位）。
+        sword_instance.GlobalPosition += Vector2.Right.Rotated((float)(2 +(2*Math.PI - 2)*random.NextDouble())) * 4;
+        Vector2 enemy_direction = filteredEnemies[0].GlobalPosition - sword_instance.GlobalPosition;
+        sword_instance.Rotation = enemy_direction.Angle();
+    }
 }
